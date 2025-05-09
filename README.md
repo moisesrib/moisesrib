@@ -12,12 +12,12 @@
 ## Teconologias:
 
 <div style="display: inline_block"><br/>
- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ <img align="center" alt="Java" src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java" />
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin" />
+    <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=sqlite" />
+    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb" />
+    <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vue.js" />
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" />
 </div>
 
 ###
