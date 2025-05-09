@@ -23,9 +23,3 @@
     <img align="center" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </div>
 
-</div>
-
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesRib&theme=dark&layout=compact)
-<img align="left" width="450px" alt="MoisesRib Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoisesRib&theme=dark&show_icons=true&hide_border=true" />
-
